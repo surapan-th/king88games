@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle king88games",
+        "command": "king88games:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "king88games",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "king88games:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
